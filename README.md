@@ -2,6 +2,7 @@
 ![.](media/uefa-champions-league.gif)
 
 ## 📌 Project Overview
+* Built the Best Playing XI of the 2023/24 UEFA Champions League using data-driven analysis of player performance metrics.
 * Scraped player stats from ![fbref.com](https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats) using ![google chrome extension](https://chromewebstore.google.com/detail/nocoding-data-scraper-eas/ojaffphbffmdaicdkahnmihipclmepok?hl=en-US&utm_source=ext_sidebar).
 * Cleaned and organized the dataset for analysis using python.
 * Visualized performance metrics and made an interactive dashboard on Tableau.
@@ -32,3 +33,10 @@
 ## Tableau Dashboard
 Made an interactive Dashboard highlighting all the best players for each position.
 ![.](media/wingtab.png)
+
+## Conclusion
+My Best Playing XI 
+![.](media/lineup-builder.png)
+
+Official UEFA Playing XI
+![.](media/uefa.jpg)
