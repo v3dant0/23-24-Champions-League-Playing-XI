@@ -21,3 +21,14 @@
 * fbref_misc : Contains some miscellaneous stats (red card, yellow card, aerial duels etc).
 * fbref_goalk : Contains standard goalkeeper stats (saves, goals conceeded).
 * fbref_goalka : Contains advanced goalkeeping stats (crosses saved, passes, expected saves).
+
+## 🧹 Data Cleaning and Preprocessing
+* Removed all the unneccesary columns.
+* Changed the datatypes from object to integer and float.
+* Enquired any null values.
+* Processed all the null values appropriately.
+* Extracted files as a csv file.
+
+## Tableau Dashboard
+Made an interactive Dashboard highlighting all the best players for each position.
+![.](media/wingtab.png)
