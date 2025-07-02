@@ -31,9 +31,11 @@
 * Extracted files as a csv file.
 
 ## Tableau Dashboard
-Made an interactive Dashboard highlighting all the best players for each position.
-![.](media/wingtab.png)
 
+* Made an interactive Dashboard highlighting all the best players for each position.
+* Hosted Interactive Dashboards on Tableau Public which can be found ![here](https://public.tableau.com/views/Book1_17514543300400/Striker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![.](media/wingtab.png)
+ 
 ## Conclusion
 My Best Playing XI 
 ![.](media/lineup-builder.png)
