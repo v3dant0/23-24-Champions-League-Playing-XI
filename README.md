@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 * Built the Best Playing XI of the 2023/24 UEFA Champions League using data-driven analysis of player performance metrics.
-* Scraped player stats from ![fbref.com](https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats) using ![google chrome extension](https://chromewebstore.google.com/detail/nocoding-data-scraper-eas/ojaffphbffmdaicdkahnmihipclmepok?hl=en-US&utm_source=ext_sidebar).
+* Scraped player stats from [fbref.com](https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats) using [google chrome extension](https://chromewebstore.google.com/detail/nocoding-data-scraper-eas/ojaffphbffmdaicdkahnmihipclmepok?hl=en-US&utm_source=ext_sidebar).
 * Cleaned and organized the dataset for analysis using python.
 * Visualized performance metrics and made an interactive dashboard on Tableau.
 * Compared players across positions using stats like goals, assists, xG, key passes, tackles, interceptions, saves etc
@@ -33,7 +33,7 @@
 ## Tableau Dashboard
 
 * Made an interactive Dashboard highlighting all the best players for each position.
-* Hosted Interactive Dashboards on Tableau Public which can be found ![here](https://public.tableau.com/views/Book1_17514543300400/Striker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* Hosted Interactive Dashboards on Tableau Public which can be found [here](https://public.tableau.com/views/Book1_17514543300400/Striker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![.](media/wingtab.png)
  
 ## Conclusion
